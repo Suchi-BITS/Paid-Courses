@@ -42,7 +42,7 @@ A practical course on building autonomous reasoning systems, tool-driven agents,
 
 ---
 
-## Business Agents Covered (from LangGraph Blueprint)
+## Business Agents Covered 
 - Research agent
 - Content generation team
 - Sales and CRM automation agents
